@@ -29,4 +29,4 @@ A0 - Blue LED
 AVR Studio 6 and ATmega1284 were used. 4 different colored LEDs and a speaker are used to help the user play the game properly.
 
 # Video Demonstration
-https://www.youtube.com/watch?v=JA3gT3UlVmY&t=13s
+https://www.youtube.com/watch?v=JA3gT3UlVmY
