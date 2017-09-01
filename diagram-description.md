@@ -1,4 +1,4 @@
-Connections made on the breadboard
+# Connections made on the breadboard
 
 1. The four buttons there are connected to A3, A2, A1, and A0 from left to right on the Atmel1284 microcontroller.
 2. The button is connected to A4 on the microcontroller.
