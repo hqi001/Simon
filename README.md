@@ -30,3 +30,6 @@ AVR Studio 6 and ATmega1284 were used. 4 different colored LEDs and a speaker ar
 
 # Video Demonstration
 https://www.youtube.com/watch?v=JA3gT3UlVmY
+
+# io.h and io.c
+These files are used to program the LCD screen.
